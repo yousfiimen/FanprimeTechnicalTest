@@ -1,0 +1,25 @@
+
+.completed-task {
+    background-color: rgb(11, 249, 94);
+  }
+
+  .custom-table {
+    width: 100%; 
+    border-collapse: collapse; 
+  }
+  
+  .custom-table th, .custom-table td {
+    border: 1px solid #000;
+    padding: 10px;
+    span {
+        color:  #242424;
+      }
+  }
+  
+  .custom-table th {
+    background-color:  #242424;
+  }
+  
+
+  
+  
